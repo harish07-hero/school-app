@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+}
+img{
+  left:250px;
+}
+a text{
+    left: 1000px;
+}
+marquee{
+    background-color: coral;
+    text-decoration-color: cornflowerblue;
+    text-decoration: underline;
+}
